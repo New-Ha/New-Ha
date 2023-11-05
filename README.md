@@ -26,14 +26,14 @@
 </div>
 <br />
   <div align=center>
-    <h3>Toy Project</h3>
+    <h3>💎Toy Project💎</h3>
     <table>
       <thead>
 		<tr>
-			<th>project title</th>
-      <th>Optional</th>
-			<th>repository</th>
-			<th>deploy link</th>
+			<th>Project Title</th>
+      			<th>Optional</th>
+			<th>Repository</th>
+			<th>Deploy Link</th>
 		</tr>
 	</thead>
 	<tbody>
