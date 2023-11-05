@@ -40,7 +40,7 @@
     <tr>
 			<td> ForFE </td>
 			<td>  개인 </td>
-			<td>  [https://github.com/New-Ha/ForFE_Blog](https://github.com/New-Ha/ForFE_Blog) </td>
+			<td>  <a href='https://github.com/New-Ha/ForFE_Blog'>https://github.com/New-Ha/ForFE_Blog</a> </td>
 			<td>  개발중 </td>
 		</tr>
 	</tbody>
@@ -48,7 +48,7 @@
     <tr>
 			<td> WalkScene </td>
 			<td>  개인 </td>
-			<td>  [https://github.com/New-Ha/ForFE_Blog](https://github.com/New-Ha/WalkScene_SNS) </td>
+			<td> <a href='https://github.com/New-Ha/WalkScene_SNS'>https://github.com/New-Ha/WalkScene_SNS</a> </td>
 			<td>  개발중 </td>
 		</tr>
 	</tbody>
