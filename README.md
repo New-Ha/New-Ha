@@ -25,8 +25,10 @@
   </div>
 </div>
 <br />
+<br />
+<br />
   <div align=center>
-    <h3>💎Toy Project💎</h3>
+    <h2>💎Toy Project💎</h2>
     <table>
       <thead>
 		<tr>
