@@ -48,7 +48,7 @@
 	</tbody>
   <tbody>
     <tr>
-			<td> WalkScene </td>
+			<td> Walkand </td>
 			<td>  개인 </td>
 			<td> <a href='https://github.com/New-Ha/WalkScene_SNS'>https://github.com/New-Ha/WalkScene_SNS</a> </td>
 			<td>  개발중 </td>
