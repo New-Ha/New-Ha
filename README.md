@@ -28,7 +28,7 @@
 <br />
 <br />
   <div align=center>
-    <h2>💎Toy Project💎</h2>
+    <h2>💎Project💎</h2>
     <table>
       <thead>
 		<tr>
@@ -40,17 +40,9 @@
 	</thead>
 	<tbody>
     <tr>
-			<td> ForFE </td>
-			<td>  개인 </td>
-			<td>  <a href='https://github.com/New-Ha/ForFE_Blog'>https://github.com/New-Ha/ForFE_Blog</a> </td>
-			<td>  개발중 </td>
-		</tr>
-	</tbody>
-  <tbody>
-    <tr>
-			<td> Walkand </td>
-			<td>  개인 </td>
-			<td> <a href='https://github.com/New-Ha/WalkScene_SNS'>https://github.com/New-Ha/WalkScene_SNS</a> </td>
+			<td> 🏠House-Connect </td>
+			<td>  팀 협업 </td>
+			<td>  <a href='https://github.com/house-mate-connect/house-connect'>🔗https://github.com/house-mate-connect/house-connect</a> </td>
 			<td>  개발중 </td>
 		</tr>
 	</tbody>
