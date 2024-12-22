@@ -59,7 +59,7 @@
     <tr>
 			<td> 🏠House-Connect </td>
 			<td>  팀 협업 </td>
-			<td>  <a href='https://github.com/HC-House-Connect/House-Connect'>🔗https://github.com/HC-House-Connect/House-Connect</a> </td>
+			<td>  <a href='https://github.com/New-Ha/House-Connect'>🔗https://github.com/New-Ha/House-Connect</a> </td>
 			<td>  개발중 </td>
 		</tr>
 	</tbody>
